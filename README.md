@@ -1,4 +1,7 @@
 # ad-lab-v2
+
+- This repo is the collection of the only remnants of my old home lab. I will remake my home lab when I get back my 8GB RAM from the RAM thief; VirtualBox won't run properly.
+
 ### Active Directory User Inventory: CirnoLand.lab
 
 | Account Name | Object Type | AD Folder / Container | Description / Role |
